@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: GitprojectcreationProject
+  gitServerName: altafgit
+  gitUrl: https://github.com/altafjava
+  gitUsername: altafjava
+  gitBranch: main
